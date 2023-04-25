@@ -5,7 +5,7 @@
 ### Projects 
 
 [Topic Analysis and Word2Vec](/sample_page)
-<img src="images/lda_vis.html?raw=true"/>
+{% include figure.html %}
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
