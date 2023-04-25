@@ -4,8 +4,8 @@
 
 ### Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Topic Analysis and Word2Vec](/sample_page)
+<img src="images/lda_vis.html?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
