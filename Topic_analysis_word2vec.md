@@ -5,10 +5,10 @@
 ### Figure 1:
 <img src="images/static_lda_vis.png?raw=true"/>
 
-[Interactive Version](/images/lda_vis.html)
+[Interactive Version](/images/lda_vis.html){:target="_blank"}
 
 ### Figure 2:
 <img src="images/word_vectors_all.png?raw=true"/>
 
-[Interactive Version](/images/word_vectors.html)
+[Interactive Version](/images/word_vectors.html){:target="_blank"}
 

@@ -8,3 +8,8 @@ Examination of the yelp dataset through topic analysis and word2vec vector embed
 
 ---
 
+### [Relational Database of the Yelp Dataset](https://github.com/Alkoopman85/Yelp_sqlite_database)
+
+
+
+---
