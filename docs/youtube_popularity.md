@@ -5,7 +5,8 @@
 ---
 ### Figure 1: Training Results of the CNN
 The CNN train and validate mean squared error durrign training on the video thumbnails.<br>
-<img src="images/CNN_training.png?raw=true"><br>
+<img src="images/CNN_training.png?raw=true">
+<br>
 
 [CNN Model Definition](https://github.com/corbinscahalan/SIADS699-capstone-project/blob/main/cnn_model.py) | [CNN Model Training](https://github.com/corbinscahalan/SIADS699-capstone-project/blob/main/cnn_train_distributed_strategy.py) | [CNN Model testing](https://github.com/corbinscahalan/SIADS699-capstone-project/blob/main/cnn_on_test_data.ipynb)
 
