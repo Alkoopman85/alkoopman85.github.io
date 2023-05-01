@@ -5,7 +5,8 @@
 [Davies Bouldin score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.davies_bouldin_score.html) | [Calinski and Harabasz score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.calinski_harabasz_score.html)
 
 ---
-### Figure 1: Example of Optimal Clustering Selection
+### Figure 1: Optimal Clustering Selection
+This is an example of the clustering selection on a created dataset with 12 clusters<br>
 <img src="images/optimal_clustering.png?raw=true">
 
 ---

@@ -14,7 +14,7 @@
 ### Figure 3: Chemical Measurements and Population Over Time
 <img src="images/pop_over_time.png?raw=true">
 
-[Interactive Version](/images/interactive_chem_data.html)<br>
+[Interactive Version](/images/interactive_chem_data.html)
 
 ---
 [Final Report](/pdfs/10-jeffols-azorin-alevink.pdf)
