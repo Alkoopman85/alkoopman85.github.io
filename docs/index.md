@@ -1,3 +1,5 @@
+# Portfolio
+
 ## Machine Learning and Data Science Projects
 
 ---
@@ -46,6 +48,12 @@ Examination of lake health in vermont in relation to human activity, as meanured
 ### [Kmeans with Automatic Optimal Clustering](/kmeans_optimalk.md)
 Custom KMeans estimator in scikit-learn that finds the optimal number of clusters based on the Calinski and Harabasz score and the Davies-Bouldin score.<br>
 [Github Repot](https://github.com/Alkoopman85/optimal_k_kmeans)
+
+---
+### [Testing Adaboost Algorithm with Different Base Estinators]()
+
+---
+### [Seaborn Jointplot Tutorial]()
 
 ---
 ---
