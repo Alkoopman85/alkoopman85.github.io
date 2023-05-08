@@ -8,7 +8,7 @@ Examination of the yelp dataset through topic analysis and word2vec vector embed
 
 ### [Youtube Video Popularity Prediction](/youtube_popularity.md)
 Predict the popularity of a youtube cooking video based on the thumbnail, subtitles, bit rate, duration, and other types of metadata associate with the video. We used A CNN to transform the thumbnails into a usable predictive feature for a stacking regressor model. This project was done in collaboration with teamates Corbin Callahan and Jeffrey Olson.<br>
-[Final Report](https://medium.com/@team_popular/predicting-youtube-cooking-video-popularity-a5b841732e2d) | [Github Repot](https://github.com/corbinscahalan/SIADS699-capstone-project)
+[Full Report](https://medium.com/@team_popular/predicting-youtube-cooking-video-popularity-a5b841732e2d) | [Github Repot](https://github.com/corbinscahalan/SIADS699-capstone-project)
 
 
 ### [Twitter Bot Detection](/twitter_bot_detection.md)
