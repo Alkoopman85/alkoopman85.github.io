@@ -6,13 +6,18 @@
 .wrapper {
   width:1200px;
   // left side is 270
-  // 1200-270 = 930
-  // 30px free room
+  // 1200-330 = 870
+  // 20px free room
   margin:0 auto;
+}
+header {
+    width:330px;
+    float:left;
+    padding-bottom:50px;
 }
 
 section {
-  width:900px;
+  width:850px;
   float:right;
   padding-bottom:50px;
 }
