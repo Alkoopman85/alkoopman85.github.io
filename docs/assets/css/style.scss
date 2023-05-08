@@ -1,11 +1,18 @@
 ---
 ---
 
-@import "jekyll-theme-minimalist";
+@import "{{ site.theme }}";
 
-.img-circle {
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    border-radius: 8px; 
-    margin-bottom: 10px;
+.wrapper {
+  width:1200px;
+  // left side is 270
+  // 1200-270 = 930
+  // 30px free room
+  margin:0 auto;
+}
+
+section {
+  width:900px;
+  float:right;
+  padding-bottom:50px;
 }
