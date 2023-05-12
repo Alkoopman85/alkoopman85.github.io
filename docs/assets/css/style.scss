@@ -21,15 +21,15 @@
 header {
     width:330px;
     float:left;
-    padding-right:5px;
     padding-bottom:50px;
     overflow-y:scroll;
     height:100%;
 }
 
 footer {
-    position: relative;
-    margin-top: auto;
+    position: fixed;
+    bottom:10px;
+    overflow:hidden;
 }
 
 section {
