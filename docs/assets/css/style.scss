@@ -23,8 +23,12 @@ header {
     float:left;
     padding-bottom:50px;
     overflow-y:scroll;
-    height:1000px;
-    border: 1px blue;
+    border: 5px blue;
+    height: 100%;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
 }
 
 // footer {
