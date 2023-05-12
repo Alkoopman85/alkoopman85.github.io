@@ -7,7 +7,7 @@ Examination of the yelp dataset through topic analysis and word2vec vector embed
 
 
 ### [Youtube Video Popularity Prediction](/youtube_popularity.md)
-Predict the popularity of a youtube cooking video based on the thumbnail, subtitles, bit rate, duration, and other types of metadata associate with the video. We used A CNN to transform the thumbnails into a usable predictive feature for a stacking regressor model. This project was done in collaboration with teamates Corbin Callahan and Jeffrey Olson.<br>
+Predict the popularity of a youtube cooking video based on the thumbnail, subtitles, bit rate, duration, and other types of metadata associated with the video. We used A CNN to transform the thumbnails into a usable predictive feature for a stacking regressor model. This project was done in collaboration with teamates Corbin Callahan and Jeffrey Olson.<br>
 [Full Report](https://medium.com/@team_popular/predicting-youtube-cooking-video-popularity-a5b841732e2d) | [Github Repot](https://github.com/corbinscahalan/SIADS699-capstone-project)
 
 
@@ -29,7 +29,7 @@ Creation of an SQLite database containing the yelp dataset using python and SQLa
 ## Data Analysis Projects
 
 ### [Vermont Lake Health Analysis](/vermont_lake_health.md)
-Examination of lake health in vermont in relation to human activity, as meanured through chemical tests over decades on more than 400 lakes. This project was done in collaboration with teamates Anze Zorn and Jeffrey Olson<br>
+Examination of lake health in Vermont in relation to human activity, as measured through chemical tests over decades on more than 400 lakes. This project was done in collaboration with teamates Anze Zorn and Jeffrey Olson<br>
 [Full Report](/pdfs/10-jeffols-azorin-alevink.pdf) | [Github Repot](https://github.com/zorinAnze/Vermont-Lake-Health)
 
 ---
