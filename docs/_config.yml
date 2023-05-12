@@ -6,9 +6,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   in the realm of machine learning, and I am deeply committed to advancing 
   the field through my teaching, and mentorship.<br>
   <br>
-  My academic credentials include a Masters degree in Applied Data Science 
+  My academic credentials include a masters degree in applied data science 
   from The University of Michigan, where I achieved a 4.0 GPA, 
-  as well as a Bachelor's degree in Mathematics with a minor in Economics 
+  as well as a bachelor's degree in mathematics with a minor in economics 
   from the University of Colorado at Boulder. I am dedicated to the pursuit of 
   knowledge and the cultivation of academic excellence, and I take great pride 
   in helping my students to achieve their full potential and make meaningful 
@@ -17,6 +17,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/alexander-levin-koopman-550522188/">View My LinkedIn Profile</a>
   <br>
   <a href="https://github.com/Alkoopman85/">View My GitHub Profile</a>
+  <br>
+  <br>
+  <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
