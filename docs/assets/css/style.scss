@@ -3,12 +3,25 @@
 
 @import "{{ site.theme }}";
 
-.wrapper {
-  width:1200px;
-  // left side is 270
-  // 1200-330 = 870
-  // 50px free room
-  margin:0 auto;
+@media screen and (min-width: 1200px) {
+  .wrapper {
+    width:1200px;
+    // left side is 330
+    // 1200-270 = 930
+    // 30px free room
+    margin:0 auto;
+  }
+
+  section {
+    width:820px;
+    float:right;
+    padding-bottom:50px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    word-wrap: break-word;
+  }
 }
 
 .center {
@@ -19,30 +32,29 @@
 }
 
 header {
-    width:330px;
-    float:left;
-    padding-bottom:50px;
-    overflow-y:auto;
-    height: 100%;
-    box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -o-box-sizing: border-box;
-}
-
-// footer {
-//     position: fixed;
-//     bottom:10px;
-//     overflow:hidden;
-// }
-
-section {
-  width:820px;
-  float:right;
+  float:left;
   padding-bottom:50px;
+  overflow-y:auto;
+  height: 100%;
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   -o-box-sizing: border-box;
-  word-wrap: break-word;
 }
+
+// // footer {
+// //     position: fixed;
+// //     bottom:10px;
+// //     overflow:hidden;
+// // }
+
+// section {
+//   width:820px;
+//   float:right;
+//   padding-bottom:50px;
+//   box-sizing: border-box;
+//   -webkit-box-sizing: border-box;
+//   -moz-box-sizing: border-box;
+//   -o-box-sizing: border-box;
+//   word-wrap: break-word;
+// }
