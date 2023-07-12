@@ -13,7 +13,7 @@ The CNN train and validate mean squared error durrign training on the video thum
 ---
 
 ### Figure 2: Feature Importance
-Many of the fetures in this plot are engeneered from the existing data, and the full description of each feature can be seen in Table B1 of Appendix B in our report.<br>
+Many of the fetures in this plot are engineered from the existing data, and the full description of each feature can be seen in Table B1 of Appendix B in our report.<br>
 <img src="images/popularity_feature_importance.png?raw=true">
 
 
