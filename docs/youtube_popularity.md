@@ -13,20 +13,20 @@ The CNN train and validate mean squared error durrign training on the video thum
 ---
 
 ### Figure 2: Feature Importance
-Many of the fetures in this plot are engeneered from the existing data, and the full description of each feature can be seen in Table B1 of Appendix B in our report.
+Many of the fetures in this plot are engeneered from the existing data, and the full description of each feature can be seen in Table B1 of Appendix B in our report.<br>
 <img src="images/popularity_feature_importance.png?raw=true">
 
 
 ---
 
 ### Figure 3: Linear Regression Base Model
-The output of a base linear regression model on the test dataset. We can see that there are two outliers sevearly skewing the results.
+The output of a base linear regression model on the test dataset. We can see that there are two outliers sevearly skewing the results.<br>
 <img src="images/popularity_lin_regression.png?raw=true">
 
 ---
 
 ### Figure 4: Ensemble Stacking Regressor
-The stacking regressor on the test dataset, performed significantly better than the base linear regression model.
+The stacking regressor on the test dataset, performed significantly better than the base linear regression model.<br>
 <img src="images/popularity_stacking.png?raw=true">
 
 ---

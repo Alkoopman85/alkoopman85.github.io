@@ -10,7 +10,7 @@
 
 ---
 ### Figure 2: Friend Graph Degree Histohram
-This plot shows up to degree 40. However the maximum degree is 6869 in the graph. This was done for the sake of visualizing the drgree distribution.
+This plot shows up to degree 40. However the maximum degree is 6869 in the graph. This was done for the sake of visualizing the drgree distribution.<br>
 <img src="images/graph_degree_dist.png?raw=true"/>
 
 ---
