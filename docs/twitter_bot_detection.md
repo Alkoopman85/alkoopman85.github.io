@@ -24,4 +24,4 @@
 <img src="images/twitter_bot_stacking_classifier.png?raw=true">
 
 ---
-[Full Report]("/pdfs/Twitter Bot Detection SIADS 694_695 Team Project Report.pdf") | [Final Modeling Notebook](https://github.com/MarlonShakespeare/Milestone-2/blob/main/final_supervised_model.ipynb)
+[Full Report](/pdfs/Twitter_Bot_Detection_SIADS_694_695_Team_Project_Report.pdf) | [Final Modeling Notebook](https://github.com/MarlonShakespeare/Milestone-2/blob/main/final_supervised_model.ipynb)

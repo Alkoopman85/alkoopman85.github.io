@@ -33,4 +33,4 @@ The stacking regressor on the test dataset, performed significantly better than 
 
 [Final Modeling Training and Analysis](https://github.com/corbinscahalan/SIADS699-capstone-project/blob/main/Final_model.ipynb) | 
 [Final Dataset Construction](https://github.com/corbinscahalan/SIADS699-capstone-project/blob/main/construct_final_dataset.ipynb) | 
-[Full Report]("/pdfs/Predicting YouTube Cooking Video Popularity Final Report.pdf")
+[Full Report](/pdfs/Predicting_YouTube_Cooking_Video_Popularity_Final_Report.pdf)

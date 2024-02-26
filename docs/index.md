@@ -9,13 +9,13 @@ Examination of the yelp dataset through topic analysis and word2vec vector embed
 ### [Youtube Video Popularity Prediction](/youtube_popularity.md)
 
 Predict the popularity of a youtube cooking video based on the thumbnail, subtitles, bit rate, duration, and other types of metadata associated with the video. We used A CNN to transform the thumbnails into a usable predictive feature for a stacking regressor model. This project was done in collaboration with teamates Corbin Callahan and Jeffrey Olson.<br>
-[Full Report]("/pdfs/Predicting YouTube Cooking Video Popularity Final Report.pdf") | [Github Repot](https://github.com/corbinscahalan/SIADS699-capstone-project)
+[Full Report](/pdfs/Predicting_YouTube_Cooking_Video_Popularity_Final_Report.pdf) | [Github Repot](https://github.com/corbinscahalan/SIADS699-capstone-project)
 
 
 ### [Twitter Bot Detection](/twitter_bot_detection.md)
 
 Classify whether a twitter user is a bot account. We accomplished this with the combination of a neural net and an ensemble stacking classifier. This project was done in collaboration with teamates Rania El Shenety and Jeffrey Olson<br>
-[Full Report]("/pdfs/Twitter Bot Detection SIADS 694_695 Team Project Report.pdf") | [Github Repot](https://github.com/MarlonShakespeare/Milestone-2)
+[Full Report](/pdfs/Twitter_Bot_Detection_SIADS_694_695_Team_Project_Report.pdf) | [Github Repot](https://github.com/MarlonShakespeare/Milestone-2)
 
 ### [Kmeans with Automatic Optimal Clustering](/kmeans_optimalk.md)
 
