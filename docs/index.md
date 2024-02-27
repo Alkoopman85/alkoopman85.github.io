@@ -1,3 +1,9 @@
+## Systems Architect Projects
+
+### [How I built a Home Lab from Recycled Hardware](/pdfs/homelab_buildbook.pdf)
+
+A step by step process for a home lab build from recycled hardware. Here I took five computers past their end of life and created a development desktop, a nas like storage and NFS share, and a proxmox virtual environment cluster.
+
 ## Machine Learning and Data Science Projects
 
 ### [Topic Analysis and Word2Vec](/Topic_analysis_word2vec.md)
