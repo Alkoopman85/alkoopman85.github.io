@@ -1,3 +1,4 @@
+# Portfolio
 ## Systems Architect Projects
 
 ### [How I built a Home Lab from Recycled Hardware](/pdfs/homelab_buildbook.pdf)
