@@ -1,9 +1,4 @@
 # Portfolio
-## Systems Architect Projects
-
-### [How I built a Home Lab from Recycled Hardware](/pdfs/homelab_buildbook.pdf)
-
-A step by step process for a home lab build from recycled hardware. Here I took five computers past their end of life and created a development desktop, a nas like storage and NFS share, and a proxmox virtual environment cluster.
 
 ## Machine Learning and Data Science Projects
 
@@ -53,10 +48,18 @@ Examination of lake health in Vermont in relation to human activity, as measured
 
 ---
 
-## Other Projects
+## Tutorials
 
 ### [Seaborn Jointplot Tutorial](https://github.com/Alkoopman85/Seaborn-jointplt-and-joint-grid-tutorial)
 
 A tutorial on how to plot and customize the jointplot function and JointGrid class in the seaborn plotting library
+
+---
+
+## Other Projects
+
+### [How I built a Home Lab from Recycled Hardware](/pdfs/homelab_buildbook.pdf)
+
+A step by step process for a home lab build from recycled hardware. Here I took five computers past their end of life and created a development desktop, a nas like storage and NFS share, and a proxmox virtual environment cluster.
 
 ---
