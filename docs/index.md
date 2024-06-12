@@ -1,6 +1,6 @@
 # Portfolio
 
-## Machine Learning and Data Science Projects
+## Machine Learning and Data Science
 
 ### [Topic Analysis of Yelp Reviews](/Topic_analysis_word2vec.md)
 
@@ -30,7 +30,7 @@ Explores the Adaboost algorithm using different base estimators
 
 ---
 
-## Data Analysis Projects
+## Data Analysis
 
 ### [Vermont Lake Health Analysis](/vermont_lake_health.md)
 
@@ -39,7 +39,7 @@ Examination of lake health in Vermont in relation to human activity, as measured
 
 ---
 
-## Database Projects
+## Database Design
 
 ### [Relational Database of the Yelp Dataset](/yelp_database.md)
 
