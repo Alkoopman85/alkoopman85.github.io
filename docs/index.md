@@ -2,7 +2,7 @@
 
 ## Machine Learning and Data Science Projects
 
-### [Topic Analysis and Word2Vec](/Topic_analysis_word2vec.md)
+### [Topic Analysis of Yelp Reviews](/Topic_analysis_word2vec.md)
 
 Examination of the yelp dataset through topic analysis and word2vec vector embeddings. Using python, spaCy and gensim I created a preprocessing pipeline, trained a Latent Dirichlet Allocation (LDA) model, and a Word2Vec model. Every step used generators to stream the documents from disk to minimize memory utilization and ensure optimal performance.<br>
 [Github Repot](https://github.com/Alkoopman85/Word2Vec-and-Topic-Analysis-Yelp-Reviews) | [Dataset](https://www.yelp.com/dataset)
@@ -30,21 +30,21 @@ Explores the Adaboost algorithm using different base estimators
 
 ---
 
-## Database Projects
-
-### [Relational Database of the Yelp Dataset](/yelp_database.md)
-
-Creation of an SQLite database containing the yelp dataset using python and SQLalchemy. I used this database to do a quick inspection and network analysis of the user relationships contained within.<br>
-[GitHub Repot](https://github.com/Alkoopman85/Yelp_sqlite_database) | [Dataset](https://www.yelp.com/dataset)
-
----
-
 ## Data Analysis Projects
 
 ### [Vermont Lake Health Analysis](/vermont_lake_health.md)
 
 Examination of lake health in Vermont in relation to human activity, as measured through chemical tests over decades on more than 400 lakes. This project was done in collaboration with teamates Anze Zorn and Jeffrey Olson<br>
 [Full Report](/pdfs/10-jeffols-azorin-alevink.pdf) | [Github Repot](https://github.com/zorinAnze/Vermont-Lake-Health)
+
+---
+
+## Database Projects
+
+### [Relational Database of the Yelp Dataset](/yelp_database.md)
+
+Creation of an SQLite database containing the yelp dataset using python and SQLalchemy. I used this database to do a quick inspection and network analysis of the user relationships contained within.<br>
+[GitHub Repot](https://github.com/Alkoopman85/Yelp_sqlite_database) | [Dataset](https://www.yelp.com/dataset)
 
 ---
 
