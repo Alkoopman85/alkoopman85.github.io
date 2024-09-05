@@ -24,7 +24,7 @@ Classify whether a twitter user is a bot account. We accomplished this with the 
 Custom KMeans estimator in scikit-learn that finds the optimal number of clusters based on the Calinski and Harabasz score and the Davies-Bouldin score.<br>
 [Github Repot](https://github.com/Alkoopman85/optimal_k_kmeans)
 
-### [Testing Adaboost Algorithm with Different Base Estinators](https://github.com/Alkoopman85/Adaboost-Comparison)
+### [Testing Adaboost Algorithm with Different Base Estinators](https://github.com/Alkoopman85/Adaboost-Comparison/blob/main/heart-disease-adaboost-w-different-base-estimators.ipynb)
 
 Explores the Adaboost algorithm using different base estimators
 
