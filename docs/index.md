@@ -33,7 +33,7 @@ Explores the Adaboost algorithm using different base estimators
 
 ### [Vermont Lake Health Analysis](/vermont_lake_health.md)
 
-Examination of lake health in Vermont in relation to human activity, as measured through chemical tests over decades on more than 400 lakes. This project was done in collaboration with teamates Anze Zorn and Jeffrey Olson<br>
+Examination of lake health in Vermont in relation to human activity, as measured through chemical tests over decades on more than 400 lakes. This project was done in collaboration with teammates Anze Zorn and Jeffrey Olson<br>
 [Full Report](/pdfs/10-jeffols-azorin-alevink.pdf) | [Github Repository](https://github.com/zorinAnze/Vermont-Lake-Health)
 
 ---

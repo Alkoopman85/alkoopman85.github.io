@@ -1,6 +1,6 @@
 ## Twitter Bot Detection
 
-**Project description:** In this project we creted two datasets, one was made up of only the tweets for each user concatenated together, we then used a neural net on those tweets in TF-IDF format to calssify an account as a bot or a human. The output of this was then included in the data for an ensemble model which did the final prediction. This project included extensive feature engeneering and extraction to create an array of features for the final model (a full list of these can be seen in the final report). Note that this was before verified status became fee based.<br>
+**Project description:** In this project we created two datasets, one was made up of only the tweets for each user concatenated together, we then used a neural net on those tweets in TF-IDF format to classify an account as a bot or a human. The output of this was then included in the data for an ensemble model which did the final prediction. This project included extensive feature engineering and extraction to create an array of features for the final model (a full list of these can be seen in the final report). Note that this was before verified status became fee based.<br>
 
 ---
 

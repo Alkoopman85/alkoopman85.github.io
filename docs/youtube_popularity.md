@@ -4,7 +4,7 @@
 
 ---
 ### Figure 1: Training Results of the CNN
-The CNN train and validate mean squared error durrign training on the video thumbnails.<br>
+The CNN train and validate mean squared error during training on the video thumbnails.<br>
 <img src="images/CNN_training.png?raw=true">
 <br>
 
@@ -13,14 +13,14 @@ The CNN train and validate mean squared error durrign training on the video thum
 ---
 
 ### Figure 2: Feature Importance
-Many of the fetures in this plot are engineered from the existing data, and the full description of each feature can be seen in Table B1 of Appendix B in our report.<br>
+Many of the features in this plot are engineered from the existing data, and the full description of each feature can be seen in Table B1 of Appendix B in our report.<br>
 <img src="images/popularity_feature_importance.png?raw=true">
 
 
 ---
 
 ### Figure 3: Linear Regression Base Model
-The output of a base linear regression model on the test dataset. We can see that there are two outliers sevearly skewing the results.<br>
+The output of a base linear regression model on the test dataset. We can see that there are two outliers severely skewing the results.<br>
 <img src="images/popularity_lin_regression.png?raw=true">
 
 ---
