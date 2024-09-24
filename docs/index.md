@@ -57,7 +57,7 @@ A tutorial on how to plot and customize the jointplot function and JointGrid cla
 
 ## Other Projects
 
-### [How I built a Home Lab from Recycled Hardware](/pdfs/homelab_buildbook.pdf)
+### [Home Lab Build From Recycled Hardware](/pdfs/homelab_buildbook.pdf)
 
 A step by step process for a home lab build from recycled hardware. Here I took five computers past their end of life and created a development desktop, a nas like storage and NFS share, and a proxmox virtual environment cluster.
 
