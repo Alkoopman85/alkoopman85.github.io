@@ -4,7 +4,7 @@
 
 ### [Pure Python ML](https://github.com/Alkoopman85/ML-From-Scratch)
 
-This is a collection of Notebooks designed for educational purposes implementing machine learning models in pure python. These are not meant for production purposes but to provide a deeper understanding of the algorithms that are behind the the models we use everyday. This is a continuing project and as I progress with this project more sophisticated implementations will be included as well as more model types and families.
+This is a collection of Notebooks designed for educational purposes, implementing machine learning models in pure python. These are not meant for production purposes but to provide a deeper understanding of the algorithms that are behind the the models we use everyday. This is a continuing project and as I progress with this, more sophisticated implementations will be included as well as more model types and families.
 
 ### [Youtube Video Popularity Prediction](/youtube_popularity.md)
 
