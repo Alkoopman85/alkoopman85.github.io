@@ -2,6 +2,10 @@
 
 ## Machine Learning and Data Science
 
+### [Pure Python ML](https://github.com/Alkoopman85/ML-From-Scratch)
+
+This is a collection of Notebooks designed for educational purposes implementing machine learning models in pure python. These are not meant for production purposes but to provide a deeper understanding of the algorithms that are behind the the models we use everyday. This is a continuing project and as I progress with this project more sophisticated implementations will be included as well as more model types and families.
+
 ### [Youtube Video Popularity Prediction](/youtube_popularity.md)
 
 Predict the popularity of a youtube cooking video based on the thumbnail, subtitles, bit rate, duration, and other types of metadata associated with the video. We used A CNN to transform the thumbnails into a usable predictive feature for a stacking regressor model. This project was done in collaboration with teammates Corbin Callahan and Jeffrey Olson.<br>
