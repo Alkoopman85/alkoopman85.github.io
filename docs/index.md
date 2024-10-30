@@ -2,7 +2,7 @@
 
 ## Machine Learning and Data Science
 
-### [Pure Python ML](https://github.com/Alkoopman85/ML-From-Scratch)
+### [Pure Python ML](/ML_from_scratch.md)
 
 This is a collection of Notebooks designed for educational purposes, implementing machine learning algorithms in pure python. These are not meant for production but to provide a deeper understanding of the algorithms that are behind the the models we use everyday. This is an ongoing project and will continually be updated with more model types and families.
 
